@@ -20,20 +20,17 @@ html {
   border-radius: 8px;
 }
 
+.img-gallery {
+  height: 50vh !important;
+}
+
 .contact-links p a {
   color: white;
   text-decoration: none;
 }
 
+/* Utility Classes */
 .h-primary {
   font-size: 3.5rem;
   font-family: "Ubuntu", sans-serif !important;
-}
-
-.contact-textbox {
-  width: 49% !important;
-}
-
-.img-gallery {
-  height: 50vh !important;
 }
